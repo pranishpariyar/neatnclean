@@ -1,0 +1,13 @@
+{
+  "name": "neat-clean-laundry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local booking, customer sign-up, and staff admin for Neat & Clean Laundry",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
